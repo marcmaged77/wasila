@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "672793353236",
+    "firebase_url": "https://wasela-e0b96-default-rtdb.firebaseio.com",
+    "project_id": "wasela-e0b96",
+    "storage_bucket": "wasela-e0b96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672793353236:android:83943c8cbbf973bf549b01",
+        "android_client_info": {
+          "package_name": "marcmaged.wasila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672793353236-inske8ug7n87q3vlqti7us8v0ov3as5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "marcmaged.wasila",
+            "certificate_hash": "30a2cfa4ce592edd302051ae4d6693967bedc222"
+          }
+        },
+        {
+          "client_id": "672793353236-mt89dhnqu6mvo1mfr3ui4hbu6u6d2ad5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLbsV_0DKNS8CXljk9MGBxes_qppMqmGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672793353236-mt89dhnqu6mvo1mfr3ui4hbu6u6d2ad5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "672793353236-v8m78gjjl47o8voksrfh4ceojc12mkcr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "marcmaged.wasila"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

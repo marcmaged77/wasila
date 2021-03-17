@@ -1,0 +1,99 @@
+ [
+{
+"id": 1,
+"name": "The Complete 2021 Web Development Bootcamp",
+"image": "../../../assets/imgs/miniCourses/1.jpg",
+  "cover": "images/1.jpg"
+},
+{
+"id": 2,
+"name": "2021 Complete Python Bootcamp From Zero to Hero in Python",
+"image": "../../../assets/imgs/miniCourses/2.jpg",
+  "cover": "images/2.jpg"
+},
+{
+"id": 3,
+"name": "The Web Developer Bootcamp 2021",
+"image": "../../../assets/imgs/miniCourses/3.jpg",
+  "cover": "images/3.jpg"
+},
+{
+"id": 4,
+"name": "Ultimate AWS Certified Solutions Architect Associate 2021",
+"image": "../../../assets/imgs/miniCourses/4.jpg",
+  "cover": "images/4.jpg"
+},
+{
+"id": 5,
+"name": "Front End Web Development Master Course for 2021",
+"image": "../../../assets/imgs/miniCourses/5.jpg",
+  "cover": "images/5.jpg"
+},
+{
+"id": 6,
+"name": "The Complete JavaScript Course 2021: From Zero to Expert!",
+"image": "../../../assets/imgs/miniCourses/6.jpg",
+  "cover": "images/6.jpg"
+},
+{
+"id": 7,
+"name": "Microsoft Excel - Excel from Beginner to Advanced",
+"image": "../../../assets/imgs/miniCourses/7.jpg",
+  "cover": "images/7.jpg"
+},
+{
+"id": 8,
+"name": "Automate the Boring Stuff with Python Programming",
+"image": "../../../assets/imgs/miniCourses/8.jpg",
+  "cover": "images/8.jpg"
+},
+{
+"id": 9,
+"name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+"image": "../../../assets/imgs/miniCourses/9.jpg",
+  "cover": "images/9.jpg"
+},
+{
+"id": 10,
+"name": "Ultimate AWS Certified Solutions Architect Associate 2021",
+"image": "../../../assets/imgs/miniCourses/10.jpg",
+  "cover": "images/10.jpg"
+},
+{
+"id": 11,
+"name": "Modern React with Redux [2020 Update]",
+"image": "../../../assets/imgs/miniCourses/11.jpg",
+  "cover": "images/11.jpg"
+},
+{
+"id": 12,
+"name": "Flutter & Dart - The Complete Guide [2021 Edition]",
+"image": "../../../assets/imgs/miniCourses/12.jpg",
+  "cover": "images/12.jpg"
+},
+{
+"id": 13,
+"name": "The Complete Cryptocurrency Course: More than 5 Courses in 1",
+"image": "../../../assets/imgs/miniCourses/13.jpg",
+  "cover": "images/13.jpg"
+},
+{
+"id": 14,
+"name": "The Complete Cryptocurrency Course: More than 5 Courses in 1",
+"image": "../../../assets/imgs/miniCourses/14.jpg",
+  "cover": "images/14.jpg"
+},
+{
+"id": 15,
+"name": "Certified Kubernetes Administrator (CKA) with Practice Tests",
+"image": "../../../assets/imgs/miniCourses/15.jpg",
+  "cover": "images/15.jpg"
+},
+{
+"id": 16,
+"name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+"image": "../../../assets/imgs/miniCourses/16.jpg",
+  "cover": "images/16.jpg"
+}
+
+]
