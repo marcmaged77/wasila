@@ -7,6 +7,6 @@
 ![image1 5](https://user-images.githubusercontent.com/30737385/111861813-d135f100-8959-11eb-941a-7d95997d00ac.jpeg)
 # wasila
 
-My Graduation Priject application.
+My Graduation Project application.
 
 
